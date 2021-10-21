@@ -8,3 +8,4 @@
 - `npm install` para fazer com que as dependências sejam instaladas a partir do package.json
 - cypress já está pronto para rodar integrado à BDD gherkin/cucumber
 - para rodar cypress `npx cypress open`
+- dentro da GUI cypress clicar em `EXP.feature`, para rodar os testes baseados no arquivo BDD
