@@ -1,6 +1,6 @@
 # Trabalho_Framework_Cypress
 
-## Como importar para a sua máquina
+## Como importar para a sua máquina 💻
 
 - `git clone <url do repositório>` em um diretório da sua máquina
 - uma vez que o node.js está instalado corretamente
