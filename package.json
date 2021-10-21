@@ -1,0 +1,19 @@
+{
+  "name": "trabalho_framework_cypress",
+  "version": "1.0.0",
+  "description": "Trabalho de C214, framework Cypress",
+  "main": "index.js",
+  "dependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.0",
+    "cypress": "^8.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "author": "",
+  "license": "ISC"
+}
