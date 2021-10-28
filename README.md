@@ -10,7 +10,7 @@ Projeto desenvolvido para testar o site do jogo [Diablo 3](https://us.diablo3.co
 <p align="center">
  <a href="https://github.com/DarlanAjlune">Darlan Borges Ajlune</a> •
  <a href="https://github.com/GabrielPivoto">Gabriel Pivoto Ambrósio</a> •
- <a href="https://github.com/NathanRibeiroC">Nathan Ribeiro Ajlune</a>
+ <a href="https://github.com/NathanRibeiroC">Nathan Ribeiro da Cunha Azevedo</a>
 </p>
 
 #
