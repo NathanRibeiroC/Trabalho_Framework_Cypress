@@ -1,4 +1,3 @@
-//EXAMPLE FOR CALENDAR
 import { Given, And, When, Then } from 'cypress-cucumber-preprocessor/steps';
 import * as user from './actions';
 import googlePagePO from '../../support/pageobjects/gmailSignUpPage'
