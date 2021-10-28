@@ -8,9 +8,9 @@ Projeto desenvolvido para testar o site do jogo [Diablo 3](https://us.diablo3.co
 </h4>
 
 <p align="center">
- <a href="https://github.com/DarlanAjlune">Darlan Borges Ajlune</a> •
- <a href="https://github.com/GabrielPivoto">Gabriel Pivoto Ambrósio</a> •
- <a href="https://github.com/NathanRibeiroC">Nathan Ribeiro da Cunha Azevedo</a>
+ <a href="https://github.com/DarlanAjlune">Darlan Borges</a> •
+ <a href="https://github.com/GabrielPivoto">Gabriel Pivoto</a> •
+ <a href="https://github.com/NathanRibeiroC">Nathan Ribeiro</a>
 </p>
 
 #
