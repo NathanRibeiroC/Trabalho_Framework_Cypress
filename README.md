@@ -86,16 +86,6 @@ Casos de Teste:
         cy.get('#video-play').should('exist');
 		```
 
-#
-
-## Sumário
-* [Testes realizados](#Testes-realizados)
-* [Pré-Requisitos](#Pré-requisitos)
-* [Como executar](#Como-executar)
-* [Relatório de testes](#Relatórios)
-
-#
-
 ## Testes realizados :pencil: <a name="Testes-realizados"></a> 
 * Verificação de idade correta;
 * Verificação de idade incorreta;
