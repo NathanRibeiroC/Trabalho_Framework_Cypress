@@ -1,6 +1,6 @@
 <img align="right" width="250" height="194" src="https://www.seekpng.com/png/full/140-1404364_diablo-3-logo-png.png">
 
-# Trabalho Framework Cypress
+# Trabalho_Framework_Cypress
 Projeto desenvolvido para testar o site do jogo [Diablo 3](https://us.diablo3.com/pt-br/)
 
 <h4 align="center"> 
@@ -86,14 +86,6 @@ Casos de Teste:
         cy.get('#video-play').should('exist');
 		```
 
-## Testes realizados :pencil: <a name="Testes-realizados"></a> 
-* Verificação de idade correta;
-* Verificação de idade incorreta;
-* Preço do jogo na plataforma Xbox One;
-* Preço do jogo na plataforma PlayStation 4;
-* Teste da calculadora de habilidades do personagem;
-* Acesso ao vídeo de história do jogo.
-
 #
 
 ## Pré-requitos :white_check_mark: <a name="Pré-requisitos"></a>
@@ -120,10 +112,10 @@ Casos de Teste:
 ## Relatório de testes :clipboard: <a name="Relatórios"></a>
 1. Para exibir o relatório de testes no terminal, execute um dos comandos a seguir:
 	1.  ```
-		./node_modules/.bin/cypress run --spec 'cypress/integration/**/'
+		./node_modules/.bin/cypress run --spec 'cypress/integration/lista_cypress/**/'
 		```
 	2. ```
-		npx cypress run --spec 'cypress/integration/**/'
+		npx cypress run --spec 'cypress/integration/lista_cypress/**/'
 		```
 
 2. Para gerar o relatório pelo Mochawesome:
