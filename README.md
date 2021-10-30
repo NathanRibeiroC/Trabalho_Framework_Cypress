@@ -112,10 +112,10 @@ Casos de Teste:
 ## Relatório de testes :clipboard: <a name="Relatórios"></a>
 1. Para exibir o relatório de testes no terminal, execute um dos comandos a seguir:
 	1.  ```
-		./node_modules/.bin/cypress run --spec 'cypress/integration/lista_cypress/**/'
+		./node_modules/.bin/cypress run --spec 'cypress/integration/**/'
 		```
 	2. ```
-		npx cypress run --spec 'cypress/integration/lista_cypress/**/'
+		npx cypress run --spec 'cypress/integration/**/'
 		```
 
 2. Para gerar o relatório pelo Mochawesome:
